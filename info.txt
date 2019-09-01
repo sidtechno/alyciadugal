@@ -1,0 +1,4 @@
+WP:
+
+user: admin
+pass: Doogie01!
