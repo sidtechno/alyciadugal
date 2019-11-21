@@ -3,8 +3,8 @@ WP:
 user: admin
 pass: DhzbJ3$!4fiSD3BZfZ4Tnff%
 
-### Development
+### Wordpress
 
-Want to contribute? Great!
+Username: admin
 
-Dillinger uses Gulp + Webpack for fast developing.
+Password: DhzbJ3$!4fiSD3BZfZ4Tnff%
